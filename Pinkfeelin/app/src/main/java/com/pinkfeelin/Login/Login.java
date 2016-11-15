@@ -26,7 +26,6 @@ public class Login extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
-        final Gson gson= new Gson();
         email=(EditText) findViewById(R.id.email);
         password=(EditText) findViewById(R.id.password);
         loginbtn=(Button) findViewById(R.id.loginbtn);

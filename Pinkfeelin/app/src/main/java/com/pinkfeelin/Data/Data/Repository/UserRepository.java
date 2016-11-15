@@ -40,7 +40,7 @@ public class UserRepository {
             protected void onPostExecute(User user) {
                 super.onPostExecute(user);
                 if(user!=null) {
-                    callback.succes(true, user);
+                    callback.success(true, user);
                 }else{
                     callback.error("No se generó el usuario");
                 }
@@ -51,6 +51,6 @@ public class UserRepository {
 
     public interface UserCallback{
         void error(String msg);
-        void succes(boolean succes, User user);
+        void success(boolean success, User user);
     }
 }
