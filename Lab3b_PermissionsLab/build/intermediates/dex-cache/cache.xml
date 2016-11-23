@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Marco\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Marco\Documents\pinkfeelinapp\Lab3b_PermissionsLab\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_af2a1b121fd2b4f4092b1980345dbb03b2d50c51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Marco\Documents\pinkfeelinapp\Lab3b_PermissionsLab\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e263a1b3c77c2a11fae171816b6eec20f6a11053">
+        <dex dex="C:\Users\Marco\Documents\pinkfeelinapp\Lab3b_PermissionsLab\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_73bd6a2d63fbfb8381b754f0fd73ff70da09e0cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Marco\Documents\pinkfeelinapp\Lab3b_PermissionsLab\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3756e257c634313c707b0c80e5a5a521731d66ed">
+        <dex dex="C:\Users\Marco\Documents\pinkfeelinapp\Lab3b_PermissionsLab\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a39a1ee028c7e308dd09329c6ba044db24d51400\classes.dex" />
+    </item>
+
+</items>

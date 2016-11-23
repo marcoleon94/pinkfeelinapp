@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="21"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="1631901724560905"
+    token="1177762039433387813"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="1631647458644936"
+        verifier="MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="C:\Users\Marco\Documents\pinkfeelinapp\Lab3b_PermissionsLab\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="1631901724560905"
+        verifier="COLD_SWAP_REQUESTED" />
+
+</instant-run>

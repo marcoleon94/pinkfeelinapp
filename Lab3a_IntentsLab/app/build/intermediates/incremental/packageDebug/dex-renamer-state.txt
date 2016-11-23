@@ -1,0 +1,7 @@
+#Tue Nov 22 13:20:31 CST 2016
+base.0=C\:\\Users\\Marco\\Documents\\pinkfeelinapp\\Lab3a_IntentsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c71a2a73a371cce351fd42232a97cbde40136e10
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Marco\\Documents\\pinkfeelinapp\\Lab3a_IntentsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c64fe2cd7de0b09abee2eee6799da2c9df94eb42\\classes.dex
+base.1=C\:\\Users\\Marco\\Documents\\pinkfeelinapp\\Lab3a_IntentsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c64fe2cd7de0b09abee2eee6799da2c9df94eb42
+file.0=C\:\\Users\\Marco\\Documents\\pinkfeelinapp\\Lab3a_IntentsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c71a2a73a371cce351fd42232a97cbde40136e10\\classes.dex

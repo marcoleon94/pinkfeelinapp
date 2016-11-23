@@ -1,0 +1,7 @@
+#Wed Nov 23 10:27:34 CST 2016
+base.0=C\:\\Users\\Marco\\Documents\\pinkfeelinapp\\Lab3b_PermissionsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a39a1ee028c7e308dd09329c6ba044db24d51400
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Marco\\Documents\\pinkfeelinapp\\Lab3b_PermissionsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_73bd6a2d63fbfb8381b754f0fd73ff70da09e0cc\\classes.dex
+base.1=C\:\\Users\\Marco\\Documents\\pinkfeelinapp\\Lab3b_PermissionsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_73bd6a2d63fbfb8381b754f0fd73ff70da09e0cc
+file.0=C\:\\Users\\Marco\\Documents\\pinkfeelinapp\\Lab3b_PermissionsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a39a1ee028c7e308dd09329c6ba044db24d51400\\classes.dex

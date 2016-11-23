@@ -1,0 +1,26 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 18
+    buildToolsVersion "25.0.0"
+
+    defaultConfig {
+        applicationId "course.labs.intentslab.tests"
+        minSdkVersion 18
+        targetSdkVersion 18
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':lab3a_IntentsLab')
+    compile 'com.jayway.android.robotium:robotium-solo:5.3.1'
+    compile project(path: ':lab3a_IntentsLab')
+    compile project(path: ':lab3a_IntentsLab')
+}

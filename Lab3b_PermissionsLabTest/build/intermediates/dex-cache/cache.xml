@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marco\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Marco\Documents\pinkfeelinapp\Lab3b_PermissionsLabTest\lab3b_PermissionsLab\build\intermediates\pre-dexed\release\support-v4-18.0.0_af2a1b121fd2b4f4092b1980345dbb03b2d50c51.jar" />
+    </item>
+
+</items>

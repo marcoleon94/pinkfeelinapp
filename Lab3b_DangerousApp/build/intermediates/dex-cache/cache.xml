@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Marco\Documents\pinkfeelinapp\Lab3b_DangerousApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05fe9c16ca38b4e0d0136bf9a0292ba0beff41fd">
+        <dex dex="C:\Users\Marco\Documents\pinkfeelinapp\Lab3b_DangerousApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ddc51737ec96b5930492e6ca5ecd4a50f4173d8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Marco\Documents\pinkfeelinapp\Lab3b_DangerousApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bca970aa889cedebf95639a7a7a7cb18c661df94">
+        <dex dex="C:\Users\Marco\Documents\pinkfeelinapp\Lab3b_DangerousApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c2f6c4a93e9efdef0eff645e2018dbd8086ba3f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Marco\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Marco\Documents\pinkfeelinapp\Lab3b_DangerousApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_af2a1b121fd2b4f4092b1980345dbb03b2d50c51\classes.dex" />
+    </item>
+
+</items>
