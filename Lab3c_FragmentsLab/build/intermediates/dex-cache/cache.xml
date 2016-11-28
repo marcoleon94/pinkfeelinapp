@@ -2,22 +2,13 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\Users\Marco\Documents\pinkfeelinapp\Lab3c_FragmentsLab\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\Marco\.gradle\caches\modules-2\files-2.1\com.jayway.android.robotium\robotium-solo\5.3.1\e6e664ab1b59d2504c3529f128747c13487f96ca\robotium-solo-5.3.1.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="606a393936bf5bb98bc28816be85ceb77eadd8b3">
-        <dex dex="C:\Users\Marco\Documents\pinkfeelinapp\Lab3c_FragmentsLab\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0771448ac534d7e37b487a83160c18846c8a8bcb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Marco\Documents\pinkfeelinapp\Lab3c_FragmentsLab\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="41d150a825a89ff475010b142e2c1c760611d882">
-        <dex dex="C:\Users\Marco\Documents\pinkfeelinapp\Lab3c_FragmentsLab\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_245277657e65edcf3bb72137a991613fbdc4074b\classes.dex" />
+        sha1="e6e664ab1b59d2504c3529f128747c13487f96ca">
+        <dex dex="C:\Users\Marco\Documents\pinkfeelinapp\Lab3c_FragmentsLab\app\build\intermediates\pre-dexed\androidTest\debug\robotium-solo-5.3.1_ac345996d2c2468529797cbdbc3526de10153b64.jar" />
     </item>
 
 </items>

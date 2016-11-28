@@ -27,7 +27,7 @@ public class ItemsRepository {
                 String res;
                 HashMap<String, String> body= new HashMap<String, String>();
                 body.put("id_compra",Integer.toString(id_compra));
-                res= NetUtil.post("http://192.168.0.30:8000/mobile/detalle",body);
+                res= NetUtil.post("http://192.168.100.22/mobile/detalle",body);
                 if(res==null){
                     Log.d("result","vacío");
                     return null;

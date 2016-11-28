@@ -1,0 +1,4 @@
+#Fri Nov 25 13:17:42 CST 2016
+base.0=C\:\\Users\\Marco\\Documents\\pinkfeelinapp\\Lab3c_FragmentsLabTestPhone\\lab3c_FragmentsLab\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Marco\\Documents\\pinkfeelinapp\\Lab3c_FragmentsLabTestPhone\\lab3c_FragmentsLab\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

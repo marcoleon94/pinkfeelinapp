@@ -10,7 +10,7 @@
     <!-- TODO - add uses-permission elements -->
 
     <uses-permission android:name="com.android.browser.permission.READ_HISTORY_BOOKMARKS" />
-    <uses-permission android:name="course.labs.permissionslab.DANGEROUSE_ACTIVITY_PERM" />
+    <uses-permission android:name="course.labs.permissions.DANGEROUS_ACTIVITY_PERM" />
 
     <application
         android:allowBackup="true"
@@ -23,6 +23,7 @@
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
+                <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>

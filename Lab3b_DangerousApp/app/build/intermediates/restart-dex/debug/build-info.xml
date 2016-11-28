@@ -5,7 +5,7 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="1631868533215762"
+    timestamp="1809711303736495"
     token="3369478183410436564"
     verifier="MANIFEST_FILE_CHANGE" >
 
@@ -27,7 +27,7 @@
         type="MAIN" />
 
     <build
-        timestamp="1631868533215762"
+        timestamp="1809711303736495"
         verifier="MANIFEST_FILE_CHANGE" >
         <artifact
             location="C:\Users\Marco\Documents\pinkfeelinapp\Lab3b_DangerousApp\app\build\outputs\apk\app-debug.apk"

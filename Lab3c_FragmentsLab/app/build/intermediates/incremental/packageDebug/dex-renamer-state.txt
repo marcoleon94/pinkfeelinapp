@@ -1,7 +1,4 @@
-#Wed Nov 23 12:51:01 CST 2016
-base.0=C\:\\Users\\Marco\\Documents\\pinkfeelinapp\\Lab3c_FragmentsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_245277657e65edcf3bb72137a991613fbdc4074b
-renamed.1=classes2.dex
+#Fri Nov 25 13:55:59 CST 2016
+base.0=C\:\\Users\\Marco\\Documents\\pinkfeelinapp\\Lab3c_FragmentsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.1=C\:\\Users\\Marco\\Documents\\pinkfeelinapp\\Lab3c_FragmentsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0771448ac534d7e37b487a83160c18846c8a8bcb\\classes.dex
-base.1=C\:\\Users\\Marco\\Documents\\pinkfeelinapp\\Lab3c_FragmentsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0771448ac534d7e37b487a83160c18846c8a8bcb
-file.0=C\:\\Users\\Marco\\Documents\\pinkfeelinapp\\Lab3c_FragmentsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_245277657e65edcf3bb72137a991613fbdc4074b\\classes.dex
+file.0=C\:\\Users\\Marco\\Documents\\pinkfeelinapp\\Lab3c_FragmentsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

@@ -23,7 +23,7 @@ public class UserRepository {
                 HashMap<String,String> body=new HashMap<String, String>();
                 body.put("email",email);
                 body.put("password",password);
-                res= NetUtil.post("http://192.168.0.30:8000/mobile/login",body);
+                res= NetUtil.post("http://192.168.100.22/mobile/login",body);
                 if(res==null){
                     Log.d("result","vacío");
                     return null;

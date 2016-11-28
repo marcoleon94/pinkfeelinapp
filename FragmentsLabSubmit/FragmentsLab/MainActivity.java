@@ -6,6 +6,8 @@ import android.app.FragmentManager;
 import android.app.FragmentTransaction;
 import android.os.Bundle;
 import android.util.Log;
+import android.view.View;
+import android.widget.TextView;
 
 public class MainActivity extends Activity implements
 		FriendsFragment.SelectionListener {
@@ -26,7 +28,7 @@ public class MainActivity extends Activity implements
 		if (!isInTwoPaneMode()) {
 			
 			mFriendsFragment = new FriendsFragment();
-			mFriendsFragment.setRetainInstance(true);
+			//mFriendsFragment.setRetainInstance(true);
 
 			//TODO 1 - add the FriendsFragment to the fragment_container
 			FragmentManager fm= getFragmentManager();
@@ -75,10 +77,10 @@ public class MainActivity extends Activity implements
 			FragmentManager fm= getFragmentManager();
 
 			FragmentTransaction ft= fm.beginTransaction();
+			ft.remove(mFriendsFragment);
 			ft.replace(R.id.fragment_container,mFeedFragment);
+			ft.addToBackStack(null);
 			ft.commit();
-			
-
 			
 
 			// execute transaction now
