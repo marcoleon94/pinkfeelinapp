@@ -58,7 +58,7 @@ public class DetailsAdapter extends BaseAdapter {
         TextView name= (TextView)convertView.findViewById(R.id.NameTv);
         TextView qty = (TextView)convertView.findViewById(R.id.qtyTv);
         id_compra.setText(Integer.toString(item.getId_compra()));
-        id_item.setText(Integer.toString(item.getId_compra()));
+        id_item.setText(Integer.toString(item.getId_producto()));
         name.setText(item.getNombre());
         qty.setText(Integer.toString(item.getCantidad()));
         return convertView;
