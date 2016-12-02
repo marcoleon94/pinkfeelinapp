@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Marco\Documents\pinkfeelinapp\Lab6_NotificationsLab\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a8a2977165e478752ca7877d27c27cfc0282f367">
+        <dex dex="C:\Users\Marco\Documents\pinkfeelinapp\Lab6_NotificationsLab\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bdfc41579a9fe3cef4088c818e2674165a88a9d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Marco\Documents\pinkfeelinapp\Lab6_NotificationsLab\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e6b7634dad7f7d836c3a28f157364e72fb4f14aa">
+        <dex dex="C:\Users\Marco\Documents\pinkfeelinapp\Lab6_NotificationsLab\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f020c3ef7be97dad46c9aec4860fca29e163da18\classes.dex" />
+    </item>
+
+</items>
